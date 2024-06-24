@@ -1,7 +1,15 @@
-## Hi there 👋
+<h1>Hi, I'm Jide! <br/><a href="https://github.com/joshmadakor1">Data Scientist</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Data Analyst</a>, <a href="https://www.youtube.com/c/joshmadakor">GIS Analyst</a></h1>
+
+<h2>👨‍💻 Business, GIS & Temporal Analysis Projects:</h2>
+
+  - [London Stop & search time series Decompocition](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [London crime time series Decomposition](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  
+
+<h2>👨‍💻 Certifications:</h2>
 
 <!--
-**JideDanalyst/JideDanalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
