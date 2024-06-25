@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Business, GIS & Temporal Analysis Projects:</h2>
 
-  - [London Stop & search time series Decompocition](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [London Stop & search time series Decompocition](https://github.com/JideDanalyst/London-stop-search-temporal-decomposition)
   - [London crime time series Decomposition](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   
 
