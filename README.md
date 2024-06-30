@@ -4,7 +4,7 @@
 
   - [London Stop & search time series Decompocition](https://github.com/JideDanalyst/London-stop-search-temporal-decomposition)
   - [London crime time series Decomposition](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-  - [Fleet Utilization using Python for data cleaning & Power BI for Visuals](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Fleet Utilization using Python for data cleaning & Power BI for Visuals](https://github.com/JideDanalyst/Fleet-utilization-/tree/main)
 
 
 <h2>👨‍💻 Certifications:</h2>
