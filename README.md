@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jide! <br/><a href="https://github.com/joshmadakor1"> A focused Data Scientist</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Data Analyst</a> <a href="https://www.youtube.com/c/joshmadakor"> & GIS Analyst</a></h1>
 
-<h2>👨‍💻 Business, GIS & Temporal Analysis Projects:</h2>
+<h2>👨‍💻 Business  & GIS Analysis Projects:</h2>
 
   - [London Stop & search time series Decompocition](https://github.com/JideDanalyst/London-stop-search-temporal-decomposition)
   - [Bivariate Morans I ](https://github.com/JideDanalyst/Bivariate-morans-I-between-London-stop-search-object-of-arrest-crime-categories)
