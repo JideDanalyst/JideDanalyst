@@ -5,7 +5,7 @@
   - [London Stop & search time series Decompocition](https://github.com/JideDanalyst/London-stop-search-temporal-decomposition)
   - [Bivariate Morans I ](https://github.com/JideDanalyst/Bivariate-morans-I-between-London-stop-search-object-of-arrest-crime-categories)
   - [Fleet Utilization using Python for data cleaning & Power BI for Visuals](https://github.com/JideDanalyst/Fleet-utilization-/tree/main)
-  - [Time series Decomposition comparison( crime & stop and search](https://github.com/JideDanalyst/Fleet-utilization-/tree/main)
+  - [Time series Decomposition comparison(crime & stop and search)](https://github.com/JideDanalyst/Seasonal-Analysis-and-Comparative-Study-of-Crime-and-Stop-and-Search-Data)
 
 <h2>👨‍💻 Certifications:</h2>
 
