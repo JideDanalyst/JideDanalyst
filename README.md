@@ -3,7 +3,7 @@
 <h2>👨‍💻 Business, GIS & Temporal Analysis Projects:</h2>
 
   - [London Stop & search time series Decompocition](https://github.com/JideDanalyst/London-stop-search-temporal-decomposition)
-  - [London crime time series Decomposition](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Bivariate Morans I ](https://github.com/JideDanalyst/Bivariate-morans-I-between-London-stop-search-object-of-arrest-crime-categories)
   - [Fleet Utilization using Python for data cleaning & Power BI for Visuals](https://github.com/JideDanalyst/Fleet-utilization-/tree/main)
 
 
