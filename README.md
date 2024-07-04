@@ -8,6 +8,7 @@
   - [Time series Decomposition comparison(crime & stop and search)](https://github.com/JideDanalyst/Seasonal-Analysis-and-Comparative-Study-of-Crime-and-Stop-and-Search-Data)
   - [Granger Causality test](https://github.com/JideDanalyst/Granger-Causality-Test-on-Stop-and-Search-Arrests-and-Crime-Categories)
   - [Arcgis Pro Space-time Cube analysis](https://github.com/JideDanalyst/Spatial-and-Temporal-Analysis-of-Crime-and-Stop-Search-in-London-Identifying-Emerging-Hotspots)
+  - [Using Machine Learning (Gradient booster classifier) to predict customer churn rate ](https://github.com/JideDanalyst/Spatial-and-Temporal-Analysis-of-Crime-and-Stop-Search-in-London-Identifying-Emerging-Hotspots)
 
 <h2>👨‍💻 Certifications:</h2>
 
